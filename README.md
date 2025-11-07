@@ -6,8 +6,7 @@
 ---
 
 ## 🧠 Skills
-- HTML5  
-- CSS3  
+- HTML5    
 - Responsive Web Design
 - Front and Back End Development(In Progress)
 - Modern Web & App Development (In Progress)  
